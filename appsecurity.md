@@ -39,3 +39,4 @@
   * 目前Android的推送服务器基本上名存实亡了，国内各大厂商很多都是自己提供响应的服务
   * 苹果的推送有自己的推送服务器，不过为了跟Android统一，也不建议单独进行推送
   * 第三方推送目前用的比较多的，[个推](http://www.getui.com/)，[极光推送](https://www.jpush.cn/)，[友盟推送](http://www.umeng.com/push)，[百度云推送](http://developer.baidu.com/cloud/push)
+  * 上面这几个都不错，不过在Android上还是用信鸽比较好，企鹅出品的产品存活率比较高，推送到达率响应的也就好些吧
