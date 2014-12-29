@@ -49,3 +49,7 @@
   * 微客服结合微信，通过粉丝方式营销
 6. 第三方支付
   * 较为快捷的方式是ping++
+  * 连连支付
+7. 发布渠道&自动更新
+  * ios就是通过itunesConnect发布和更新
+  * Android的话国内平台比较多，目前可能几个主流的平台都要单独去才做吧，[百度手机助手](http://shouji.baidu.com/?from=as)、[360手机管家](http://dev.app.360.cn/)、[腾讯应用宝](http://android.myapp.com/)、[安卓市场](http://apk.hiapk.com/)、[安智应用商店](http://www.anzhi.com/)、[魅族应用商店](http://app.meizu.com/)、[小米应用商店](http://app.mi.com/)、[淘宝手机助手](http://app.taobao.com/index.htm)、[豌豆荚](http://www.wandoujia.com/)
